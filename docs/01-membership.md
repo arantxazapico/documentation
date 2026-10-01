@@ -22,10 +22,9 @@ Individuals from active working groups produce the membership by opting into Pro
     - Supporting a research direction that satisfies the criteria outlined above
     - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
-| **Cryptography Research** (7 contributors) | **Weight** | **Contributions** |
+| **Cryptography Research** (6 contributors) | **Weight** | **Contributions** |
 |:---|:---|:---|
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
-| [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | | [arantxazapico/pg-contrib](https://github.com/arantxazapico/pg-contrib/blob/main/README.md)
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
